@@ -25,14 +25,26 @@
 
 - [AppleALC.kext](https://github.com/acidanthera/AppleALC/releases)
 - [IntelMausiEthernet.kext](https://onedrive.live.com/?authkey=%21APjCyRpzoAKp4xs&id=FE4038DA929BFB23%21455134&cid=FE4038DA929BFB23)
+- [FakePCIID_Intel_HDMI_Audio](https://github.com/the-darkvoid/OS-X-Fake-PCI-ID)
+- [FakePCIID](https://github.com/RehabMan/OS-X-Fake-PCI-ID)
+- [IntelMausi](https://github.com/acidanthera/IntelMausi)
+- [LucyRTL8125Ethernet](https://github.com/Mieze/LucyRTL8125Ethernet)
+- [NVMeFix](https://github.com/acidanthera/NVMeFix)
+- [SMCProcessor](https://github.com/acidanthera/VirtualSMC)
+- [SMCSuperIO](https://github.com/acidanthera/VirtualSMC)
+- [USBPorts](https://github.com/headkaze/Hackintool)
 - [Lilu.kext](https://github.com/acidanthera/Lilu/releases)
-- [USBInjectAll.kext](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/)
 - [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC/releases)
 - [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases)
-- [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_XRealtekRTL8111.kext) (v2.3.0)
-- [VoodooHDA.kext](https://github.com/chris1111/VoodooHDA-2.9.2-Clover-V15t)
+- [XHCI-unsupported](https://github.com/RehabMan/OS-X-USB-Inject-All)
 
 1. Use Clover Configurator to mount the EFI partition of the USB drive
 2. Copy the downloaded .kexts to `EFI/CLOVER/kexts/` on the USB drive EFI partition
 
-## Configure Clover
+## Boot
+
+Fast Boot → Disabled
+CSM → Launch CSM → Disabled
+Secure Boot → OS Type → Other OS
+
+> For Big Sur: Search "serial" and disable!
