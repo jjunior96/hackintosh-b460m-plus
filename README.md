@@ -1,3 +1,5 @@
+![hack](https://user-images.githubusercontent.com/30422190/113218486-f843cb00-9255-11eb-99eb-a6fd1872b04e.png)
+
 ## The Build
 
 | Part         | Specs                                          |
@@ -21,16 +23,16 @@
 
 ## Gather Kexts
 
-- [AppleALC.kext](https://github.com/acidanthera/AppleALC/releases) (v1.5.2)
-- [IntelMausiEthernet.kext](https://onedrive.live.com/?authkey=%21APjCyRpzoAKp4xs&id=FE4038DA929BFB23%21455134&cid=FE4038DA929BFB23) (v2.5.0)
-- [Lilu.kext](https://github.com/acidanthera/Lilu/releases) (v1.4.9)
-- [USBInjectAll.kext](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/) (v0.7.1)
-- [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC/releases) (v1.1.8)
-- [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases) (v1.4.4)
+- [AppleALC.kext](https://github.com/acidanthera/AppleALC/releases)
+- [IntelMausiEthernet.kext](https://onedrive.live.com/?authkey=%21APjCyRpzoAKp4xs&id=FE4038DA929BFB23%21455134&cid=FE4038DA929BFB23)
+- [Lilu.kext](https://github.com/acidanthera/Lilu/releases)
+- [USBInjectAll.kext](https://bitbucket.org/RehabMan/os-x-usb-inject-all/downloads/)
+- [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC/releases)
+- [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases)
 - [RealtekRTL8111.kext](https://github.com/Mieze/RTL8111_driver_for_OS_XRealtekRTL8111.kext) (v2.3.0)
-- [VoodooHDA.kext](https://github.com/chris1111/VoodooHDA-2.9.2-Clover-V15t) (v2.7.3)
+- [VoodooHDA.kext](https://github.com/chris1111/VoodooHDA-2.9.2-Clover-V15t)
 
 1. Use Clover Configurator to mount the EFI partition of the USB drive
-2. Copy the downloaded .kexts to `EFI/CLOVER/kexts/Other/` on the USB drive EFI partition
+2. Copy the downloaded .kexts to `EFI/CLOVER/kexts/` on the USB drive EFI partition
 
 ## Configure Clover
