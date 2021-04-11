@@ -38,7 +38,7 @@
 - [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases)
 - [XHCI-unsupported](https://github.com/RehabMan/OS-X-USB-Inject-All)
 
-1. Use Clover Configurator (or ESP Mounter Pro) to mount the EFI partition of the USB drive
+1. Use Clover Configurator (or ESP Mounter Pro, in project folder ) to mount the EFI partition of the USB drive
 2. Copy the downloaded .kexts to `EFI/CLOVER/kexts/` on the USB drive EFI partition
 
 ## Boot
