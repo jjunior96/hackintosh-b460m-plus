@@ -18,7 +18,7 @@
 | Case         | Cooler Master HAF 912 Black Edition            |
 | Monitor_01   | LG 29wk600 29" Ultra Wide LED FreeSync Monitor |
 | Monitor_02   | LG E2060 20" Wide LED                          |
-| Keyboard     | Fortrek G Pro K7 Plus                          |
+| Keyboard     | Fortrek G Pro                                  |
 | Mouse        | Logitech G300s                                 |
 
 ## Gather Kexts
