@@ -1,9 +1,9 @@
-![hack](https://user-images.githubusercontent.com/30422190/113218486-f843cb00-9255-11eb-99eb-a6fd1872b04e.png)
+![hack](https://user-images.githubusercontent.com/30422190/120890195-6e0e3f00-c5d7-11eb-9e4f-53ed645f8dd5.png)
 
 ## The Build
 
 | Part         | Specs                                          |
-| ------------ | ---------------------------------------------- |
+| ------------ | ---------------------------------------------- | --- |
 | CPU          | Intel® Core™ i7-10700                          |
 | iGPU         | Intel® UHD Graphics 630                        |
 | dGPU         | Asus Radeon RX 5600 XT 6GB EVO OC              |
@@ -18,7 +18,7 @@
 | Case         | Cooler Master HAF 912 Black Edition            |
 | Monitor_01   | LG 29wk600 29" Ultra Wide LED FreeSync Monitor |
 | Monitor_02   | LG E2060 20" Wide LED                          |
-| Keyboard     | Xanova Magnetar RGB XK700 Switch Cherry Brown  |                                |
+| Keyboard     | Xanova Magnetar RGB XK700 Switch Cherry Brown  |     |
 | Mouse        | Logitech G300s                                 |
 
 ## Gather Kexts
