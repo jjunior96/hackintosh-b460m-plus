@@ -1,4 +1,5 @@
-![Screenshot 2021-06-17 at 8 36 00 AM](https://user-images.githubusercontent.com/30422190/122389340-385a4600-cf47-11eb-9f9b-b9a7b9b5bcf2.png)
+![Screen Shot 2021-07-28 at 8 17 03 AM](https://user-images.githubusercontent.com/30422190/127313930-46cd5737-adbf-4523-b17a-d22451c8a9b1.png)
+
 
 
 ## The Build
@@ -7,6 +8,7 @@
 | ------------ | ---------------------------------------------- |
 | CPU          | Intel® Core™ i7-10700                          |
 | iGPU         | Intel® UHD Graphics 630                        |
+| Water Cooler | PCYes Sangue Frio V2 (240mm)                   |
 | dGPU         | Asus Radeon RX 5600 XT 6GB EVO OC              |
 | RAM          | HyperX FURY DDR4 16GB @2666 (X2)               |
 | Motherboard  | ASUS TUF Gaming B460M Plus BIOS Version 1401   |
