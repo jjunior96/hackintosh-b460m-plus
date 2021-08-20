@@ -15,9 +15,12 @@
 | Motherboard  | ASUS TUF Gaming B460M Plus BIOS Version 1401   |
 | Audio        | Realtek S1200A codec _layout-id: 1_            |
 | Ethernet     | Intel® I219-V LAN                              |
-| SSD_01       | Samsung 850 Evo 250GB                          |
-| SSD_02       | Crucial Bx500 240GB                            |
-| HDD          | WD Blue 4TB                                    |
+| SSD_01       | XPG S41 TUF Gaming 512GB (NVME M.2)            |
+| SSD_02       | XPG S11 PRO 512GB (NVME M.2)                   |
+| SSD_03       | Samsung 850 Evo 250GB                          |
+| SSD_04       | Crucial Bx500 240GB                            |
+| HDD_01       | WD Blue 4TB (7200RPM)                          |
+| HDD_02       | Seagate 1TB (7200RPM)                          |
 | Power Supply | Corsair CX600M                                 |
 | Case         | Cooler Master HAF 912 Black Edition            |
 | Monitor_01   | LG 29wk600 29" Ultra Wide LED FreeSync Monitor |
