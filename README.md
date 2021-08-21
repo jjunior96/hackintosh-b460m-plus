@@ -1,4 +1,5 @@
-![Screen Shot 2021-08-16 at 11 28 40 AM](https://user-images.githubusercontent.com/30422190/129580167-d495069a-ebdc-419c-af18-33bff1c85d5c.png)
+![Screen Shot 2021-08-21 at 6 04 31 AM](https://user-images.githubusercontent.com/30422190/130316828-de34f3ba-bc61-404c-9dfc-848d9c4081d4.png)
+
 
 
 
@@ -22,7 +23,7 @@
 | HDD_01       | WD Blue 4TB (7200RPM)                          |
 | HDD_02       | Seagate 1TB (7200RPM)                          |
 | Power Supply | Corsair CX600M                                 |
-| Case         | Cooler Master HAF 912 Black Edition            |
+| Case         | Cooler Master MASTERBOX TD500 MESH ARGB        |
 | Monitor_01   | LG 29wk600 29" Ultra Wide LED FreeSync Monitor |
 | Monitor_02   | LG E2060 20" Wide LED                          |
 | Keyboard     | Xanova Magnetar RGB XK700 Switch Cherry Brown  |
