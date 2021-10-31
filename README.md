@@ -1,8 +1,4 @@
-![Screen Shot 2021-08-21 at 6 04 31 AM](https://user-images.githubusercontent.com/30422190/130316828-de34f3ba-bc61-404c-9dfc-848d9c4081d4.png)
-
-
-
-
+![monterey](https://user-images.githubusercontent.com/30422190/139580561-1e5f9d93-c896-498e-baae-ccdefc985de4.png)
 
 ## The Build
 
@@ -45,6 +41,10 @@
 - [VirtualSMC.kext](https://github.com/acidanthera/VirtualSMC/releases)
 - [WhateverGreen.kext](https://github.com/acidanthera/WhateverGreen/releases)
 - [XHCI-unsupported](https://github.com/RehabMan/OS-X-USB-Inject-All)
+
+You'll use MacOS Monterey
+
+- Rename `EFI-Monterey` to `EFI`
 
 1. Use Clover Configurator (or ESP Mounter Pro, in project folder ) to mount the EFI partition of the USB drive
 2. Copy the downloaded .kexts to `EFI/CLOVER/kexts/` on the USB drive EFI partition
